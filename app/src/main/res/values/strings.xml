@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Login Application kotlin</string>
+    <string name="uiTvName">NAME</string>
+    <string name="uiTvEmail">EMAIL</string>
+    <string name="uiTvPassword">PASSWORD</string>
+    <string name="uiTvGender">GENDER</string>
+    <string name="uiButtonSubmit">Submit</string>
+    <string name="uiButtonLogout">LOGOUT</string>
+    <string name="userNameErrorMessage">Username is not entered</string>
+    <string name="emailErrorMessage">Email is not entered</string>
+    <string name="emailFormatErrorMessage">Email format is incorrect</string>
+    <string name="passwordErrorMessage">Password is not entered</string>
+    <string name="passwordStrengthErrorMessage">Password is weak</string>
+    <string-array name="genders">
+        <item> Male </item>
+        <item> Female </item>
+        <item> Transgender </item>
+    </string-array>
+</resources>
